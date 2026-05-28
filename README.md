@@ -16,7 +16,6 @@ Python, Git/GitHub, and Linux tooling.
 
 | Project | What it shows |
 | --- | --- |
-| [TrendRadar](https://github.com/kangkk77/TrendRadar) | AI-assisted trend monitoring, aggregation, and automation ideas |
 | [Daily-Algorithms](https://github.com/kangkk77/Daily-Algorithms) | Daily C++ algorithm practice and problem-solving notes |
 | [tk-photo](https://github.com/kangkk77/tk-photo) | TypeScript project practice and frontend implementation |
 | [bpftrace fork](https://github.com/kangkk77/bpftrace) | Open-source contribution workflow practice with a real systems project |
