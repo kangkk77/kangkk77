@@ -1,4 +1,4 @@
-# Hi, I'm kangkk77
+# Hi, I'm kangkk
 
 I am learning software engineering through real projects, algorithm practice,
 and open-source contribution workflows. My current focus is C++, TypeScript,
